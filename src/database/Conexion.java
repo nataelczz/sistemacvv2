@@ -60,37 +60,5 @@ public class Conexion {
         return instancia;
     }
 }
-//gfgfgfgfgsdsdsdsdsdsdsssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
 
-//pririririririririririririrneongvoenvoervnekvneovnekovneokvnekovnerkvonerokvnerkovnekovneokvneokvnervokenvoknevkoenrvoenv
-
-//fvdfvdfvdfvfdvfvdfvdfvdfvdf
-
-//35435345345345345345345345345
-
-//esto si es una prueva de verdad
-
-//aber si este esssss
-
-//hola estoy haciendo una prueba
-
-//blue voy 
-
-//hola a mi me gustan las canciones de mac de marco
-
-// yo sigo aqui
-
-//esto solamente
-
-//o eso quiero creer
-//on the level
-// si po esta gooood
-
-//los astros se alinearon
-
-//kokokokok
-
-//fgdfgdfg
-
-//deeded2342
 
