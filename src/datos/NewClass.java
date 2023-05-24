@@ -6,7 +6,7 @@ package datos;
 
 /**
  *
- * @author nat
+ * @author nateffefe
  */
 public class NewClass {
     //ddff
