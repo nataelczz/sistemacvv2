@@ -84,3 +84,6 @@ public class Conexion {
 
 //o eso quiero creer
 //on the level
+// si po esta gooood
+
+//los astros se alinearon
