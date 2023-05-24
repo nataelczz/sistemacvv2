@@ -62,8 +62,3 @@ public class Conexion {
 }
 
 
-//scsc
-//muajajajja
-
-
-//esto es una prueba de natael 
